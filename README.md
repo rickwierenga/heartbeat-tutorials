@@ -1,5 +1,7 @@
 # Code for Heartbeat tutorials
 
+![MIT](https://img.shields.io/badge/license-MIT-green)
+
 This repository is a collection of source code for tutorials I have written for [heartbeat](https://heartbeat.fritz.ai).
 
 ## Contents
