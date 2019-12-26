@@ -1,4 +1,0 @@
-module CNIOOpenSSL {
-    umbrella "/Users/rickwierenga/workspace/heartbeat/CoreML-API/CoreML-API/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
-    export *
-}

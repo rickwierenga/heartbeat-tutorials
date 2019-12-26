@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/rickwierenga/workspace/heartbeat/CoreML-API/CoreML-API/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
-    export *
-}
