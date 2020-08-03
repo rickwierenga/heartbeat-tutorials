@@ -7,6 +7,7 @@ This repository is a collection of source code for tutorials I have written for 
 ## Contents
 Title | Post | Code
 -|-|-
+Building a Multi-platform App with SwiftUI | [Open](https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689) | [Open](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/HackerNews)
 Speech recognition and speech synthesis on iOS with Swift | [Open](https://heartbeat.fritz.ai/speech-recognition-and-speech-synthesis-on-ios-with-swift-d1a63e469cd9) | [Open](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/VerbalCommunication)
 Deploying Core ML models using Vapor | [Open](https://heartbeat.fritz.ai/deploying-core-ml-models-using-vapor-c562a70b1371) | [Open](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/CoreML-API)
 An Empirical Comparison of Optimizers for Machine Learning Models | [Open](https://heartbeat.fritz.ai/an-empirical-comparison-of-optimizers-for-machine-learning-models-b86f29957050) | [Open](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/BenchmarkingOptimizers) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rickwierenga/heartbeat-tutorials/blob/master/BenchmarkingOptimizers/Benchmarking%20Optimizers.ipynb)
@@ -18,3 +19,4 @@ This repository is licensed under the MIT license. If you decide to use a part o
 
 ---
 &copy; Rick Wierenga
+~
